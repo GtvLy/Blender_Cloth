@@ -1,0 +1,5 @@
+# Blender 自动备份
+*.blend1
+
+# 打包归档
+*.zip
